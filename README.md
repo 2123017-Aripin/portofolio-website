@@ -2,7 +2,7 @@
 
 Website portofolio pribadi untuk menampilkan latar belakang, keahlian, dan proyek di bidang **mobile development** dan **jaringan komputer**.
 
-🔗 **Live demo:** _(isi setelah GitHub Pages aktif, contoh: https://2123017-aripin.github.io/portfolio-website/)_
+🔗https://2123017-aripin.github.io/portofolio-website/
 
 ## Preview
 
