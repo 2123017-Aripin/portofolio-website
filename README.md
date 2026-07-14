@@ -1,6 +1,8 @@
 # Aripin — Portfolio Website
 
-_Dibangun dengan hati :heart: dan kopi :coofe:_
+<p align="center">
+_Dibangun dengan hati :heart: dan kopi :coffee:_
+</p>
 
 Website portofolio pribadi untuk menampilkan latar belakang, keahlian, dan proyek di bidang **mobile development** dan **jaringan komputer**.
 
